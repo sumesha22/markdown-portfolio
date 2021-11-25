@@ -1,6 +1,5 @@
-1 . chocolate 🍫
-2 .sugar-cane 
-3 .cycling 🚴
-4 .bike 🚲
-5 .trecking 🧗‍♀️
-6 .instanbul 
+1. sugarcane
+2. chocolates 🍫
+3. Turkey
+   1. air balloons 
+   2. sea 🚢
