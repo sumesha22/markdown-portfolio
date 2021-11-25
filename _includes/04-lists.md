@@ -4,3 +4,8 @@
    1. air balloons 
    2. sea 🚢
 4.cycling 🚴
+
+* apple 🍎
+* orange 🍊
+* mango 🥭
+* banana 🍌
